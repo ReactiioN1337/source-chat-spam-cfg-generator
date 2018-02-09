@@ -1,3 +1,7 @@
+# node modules and npm lock file
 node_modules/
+package-lock.json
+
+# input and output file
 output.cfg
 input.json
