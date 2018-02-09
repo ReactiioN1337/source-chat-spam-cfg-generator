@@ -1,0 +1,14 @@
+{
+  "name": "source-chat-spam-cfg-generator",
+  "version": "1.0.0",
+  "description": "Chat config generator for the source engine",
+  "main": "index.js",
+  "keywords": [
+    "source engine chat config generator"
+  ],
+  "author": "ReactiioN",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
